@@ -1,5 +1,5 @@
 # Data Files
-data/*.csv
+data/raw/*.csv
 
 # Environments
 envs/ 
