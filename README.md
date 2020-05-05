@@ -9,3 +9,6 @@ https://towardsdatascience.com/effective-data-visualization-ef30ae560961
 
 2. Feature Eningeering for Numerical Data - notebook/02_kpy_feature_engineering.ipynb;
 https://towardsdatascience.com/feature-engineering-for-numerical-data-e20167ec18
+
+3. Getting Started with Feature Selection - notebook/03_kpy_feature_selection.ipynb;
+https://towardsdatascience.com/getting-started-with-feature-selection-3ecfb4957fd4
