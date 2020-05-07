@@ -12,3 +12,6 @@ https://towardsdatascience.com/feature-engineering-for-numerical-data-e20167ec18
 
 3. Getting Started with Feature Selection - notebook/03_kpy_feature_selection.ipynb;
 https://towardsdatascience.com/getting-started-with-feature-selection-3ecfb4957fd4
+
+4. Vectorization in Python - Pytrix/pytrix_vectorization.ipynb; 
+Link to follow... 
