@@ -18,8 +18,11 @@ PyTrix Series
 1. Vectorization in Python - Pytrix/pytrix_vectorization.ipynb; 
 https://towardsdatascience.com/vectorization-in-python-46486819d3a
 
-2. Working with Numpy Arrays: Indexing;
+2. Working with Numpy Arrays: Indexing - Pytrix/pytrix_working-with-arrays.ipynb;
 https://towardsdatascience.com/working-with-numpy-arrays-indexing-e4c08595ed57
 
-3. Working with Numpy Arrays: Slicing; 
-Link to follow... 
+3. Working with Numpy Arrays: Slicing - Pytrix/pytrix_slicing.ipynb; 
+https://towardsdatascience.com/working-with-numpy-arrays-slicing-4453ec757ff0
+
+4. Slicing and Indexing with Pandas - Pytrix/pytrix_pandas_slicing-and-indexing.ipynb;
+Link to Follow... 
