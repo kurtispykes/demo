@@ -28,4 +28,4 @@ https://towardsdatascience.com/working-with-numpy-arrays-slicing-4453ec757ff0
 https://towardsdatascience.com/slicing-and-indexing-with-pandas-2bff05ec361e
 
 5. Pandas: Combining data - Pytrix/pytrix_combing_data_in_pandas.ipynb;
-Link to follow... 
+https://towardsdatascience.com/pandas-combining-data-b190d793b626
