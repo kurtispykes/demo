@@ -29,3 +29,6 @@ https://towardsdatascience.com/slicing-and-indexing-with-pandas-2bff05ec361e
 
 5. Pandas: Combining data - Pytrix/pytrix_combing_data_in_pandas.ipynb;
 https://towardsdatascience.com/pandas-combining-data-b190d793b626
+
+6. Missing data with Pandas - Pytrix/pytrix_missing_data.ipynb;
+Link to follow...
