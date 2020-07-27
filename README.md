@@ -13,6 +13,8 @@ https://towardsdatascience.com/feature-engineering-for-numerical-data-e20167ec18
 3. Getting Started with Feature Selection - notebook/03_kpy_feature_selection.ipynb;
 https://towardsdatascience.com/getting-started-with-feature-selection-3ecfb4957fd4
 
+4. Publishing to Medium from Jupyter Notebooks - notebook/kpy_jupyter_to_medium_test.ipynb;https://towardsdatascience.com/publishing-to-medium-from-jupyter-notebooks-53978dd21fac
+
 
 PyTrix Series
 1. Vectorization in Python - Pytrix/pytrix_vectorization.ipynb; 
