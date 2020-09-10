@@ -15,6 +15,9 @@ https://towardsdatascience.com/getting-started-with-feature-selection-3ecfb4957f
 
 4. Publishing to Medium from Jupyter Notebooks - notebook/kpy_jupyter_to_medium_test.ipynb;https://towardsdatascience.com/publishing-to-medium-from-jupyter-notebooks-53978dd21fac
 
+5. Oversampling and Undersampling - notebook/kpy_random_sampling_example.ipynb; 
+LINK TO FOLLOW
+
 
 PyTrix Series
 1. Vectorization in Python - Pytrix/pytrix_vectorization.ipynb; 
@@ -36,4 +39,4 @@ https://towardsdatascience.com/pandas-combining-data-b190d793b626
 https://towardsdatascience.com/a-peek-into-missing-data-with-pandas-2fb9e5df8bd0
 
 7. Handling Missing Data - Pytrix/pytrix_handling_missing_data.ipynb;
-LINK TO FOLLOW... 
+https://towardsdatascience.com/handling-missing-data-f998715fb73f
